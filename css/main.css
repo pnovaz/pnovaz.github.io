@@ -70,7 +70,7 @@ a:after {
 /* Header Wrap */
 .header {
   background: #1CBCAD;
-  background: url("../images/petra2.JPG") no-repeat;
+  background: url #000000;
   padding-top:100px;
   text-align:center;
   background-attachment: fixed;
